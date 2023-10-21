@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/new1">
+    <fragment
+        android:id="@+id/new1"
+        android:name="mx.tec.arredondovalle_ep2.ui.New.New"
+        android:label="fragment_new"
+        tools:layout="@layout/fragment_new" >
+        <action
+            android:id="@+id/action_new1_to_sync"
+            app:destination="@id/sync" />
+        <action
+            android:id="@+id/action_new1_to_visualizar"
+            app:destination="@id/visualizar" />
+    </fragment>
+    <fragment
+        android:id="@+id/sync"
+        android:name="mx.tec.arredondovalle_ep2.ui.Sync.Sync"
+        android:label="fragment_sync"
+        tools:layout="@layout/fragment_sync" />
+    <fragment
+        android:id="@+id/visualizar"
+        android:name="mx.tec.arredondovalle_ep2.ui.Visualizar.Visualizar"
+        android:label="fragment_visualizar"
+        tools:layout="@layout/fragment_visualizar" />
+</navigation>

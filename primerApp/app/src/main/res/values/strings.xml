@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">primerApp</string>
+    <string name="strUsuario">Usuario</string>
+    <string name="strPassword">Contraseña</string>
+    <string name="strLogin">Iniciar Sesión</string>
+    <string name="strForgot">¿Olvidaste tu contraseña?</string>
+</resources>

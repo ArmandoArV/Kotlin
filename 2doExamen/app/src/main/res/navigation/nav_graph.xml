@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nuevoRec">
+
+    <fragment
+        android:id="@+id/nuevoRec"
+        android:name="mx.tec.a2doexamen.ui.NuevoRec.NuevoRec"
+        android:label="NuevoRec" >
+        <action
+            android:id="@+id/action_nuevoRec_to_syncDb2"
+            app:destination="@id/syncDb2" />
+    </fragment>
+    <fragment
+        android:id="@+id/visualizar"
+        android:name="mx.tec.a2doexamen.ui.Visualizar.Visualizar"
+        android:label="Visualizar" />
+    <fragment
+        android:id="@+id/syncDb2"
+        android:name="mx.tec.a2doexamen.ui.SyncBD.SyncDb"
+        android:label="SyncDb" >
+        <action
+            android:id="@+id/action_syncDb2_to_visualizar"
+            app:destination="@id/visualizar" />
+    </fragment>
+</navigation>

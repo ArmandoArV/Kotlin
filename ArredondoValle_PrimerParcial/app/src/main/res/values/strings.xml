@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArredondoValle_PrimerParcial</string>
+    <string name="strHeader">Registro</string>
+    <string name="strPlaceName">Nombre del lugar</string>
+    <string name="strDescription">Descripción</string>
+    <string name="strEstado">Estado</string>
+    <string name="strLongitud">Longitud</string>
+    <string name="strLatitud">Latitud</string>
+    <string name="strSave">Guardar</string>
+    <string name="strSelectState">Selecciona un estado</string>
+</resources>

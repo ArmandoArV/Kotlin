@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROOM</string>
+    <string name="txtName">Nombre</string>
+    <string name="txtEdad">Edad</string>
+    <string name="txtLastName">Apellido</string>
+    <string name="txtFechaNacimiento">Fecha de Nacimiento</string>
+</resources>

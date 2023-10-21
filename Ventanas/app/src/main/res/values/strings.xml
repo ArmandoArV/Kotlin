@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ventanas</string>
+    <string name="btnNext">Siguiente</string>
+    <string name="btnPrevious">Anterior</string>
+</resources>

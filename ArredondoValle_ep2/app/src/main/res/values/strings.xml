@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArredondoValle_ep2</string>
+    <string name="edtTitle">Title</string>
+    <string name="edtDescription">Description</string>
+    <string name="strNuevo">Nuevo</string>
+    <string name="strVisualizar">Visualizar</string>
+    <string name="strSync">Sincronizar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mensajes</string>
+    <string name="edtMensaje">Mensaje</string>
+    <string name="btnToast">Mostrar mensaje con Toast</string>
+    <string name="btnAlert">Mostrar mensaje con AlertDialog</string>
+    <string name="btnLog">Mostrar mensaje con Log</string>
+</resources>

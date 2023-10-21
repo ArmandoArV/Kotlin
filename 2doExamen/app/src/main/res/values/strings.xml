@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2doExamen</string>
+    <string name="Registro">Registro</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Guardar">Guardar</string>
+
+    <string name="Recordatorios">Recordatorios</string>
+
+    <string name="Sincronizar">Sincronizar</string>
+
+    <string name="SincronizarDb">Sincronizar con la Base de Datos</string>
+</resources>

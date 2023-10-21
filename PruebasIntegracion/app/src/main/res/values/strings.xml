@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PruebasIntegracion</string>
+    <string name="txtWelcome">Bienvenido</string>
+    <string name="edtMail">Correo</string>
+    <string name="edtPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="txtMail1">Correo 1</string>
+    <string name="txtMail2">Correo 2</string>
+    <string name="btnEliminar">Eliminar</string>
+</resources>
